@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons8-angularjs-480</title>
+    <g id="icons8-angularjs-480" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="Group">
+            <polygon id="Path" fill="#BDBDBD" points="23.933 2 3 9.285 6.308 36.408 23.955 46 41.693 36.278 45 9.156"></polygon>
+            <polygon id="Path" fill="#3584D4" points="42.818 10.527 24 4.135 24 43.695 39.832 35.017"></polygon>
+            <polygon id="Path" fill="#3584D4" points="23.941 4.115 5.181 10.644 8.168 35.143 23.951 43.721 24 43.695 24 4.135"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="24 5.996 24 15.504 32.578 34 36.987 34"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="11.013 34 15.422 34 24 15.504 24 5.996"></polygon>
+            <rect id="Rectangle" fill="#FFFFFF" x="24" y="24" width="6" height="4"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="18" y="24" width="6" height="4"></rect>
+        </g>
+    </g>
+</svg>
